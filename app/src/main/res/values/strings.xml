@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArrayOperations</string>
+    <string name="textViewMainTitle">Array Operations App</string>
+    <string name="newNumbers">New Numbers</string>
+    <string name="sortAscending">Sort Ascending</string>
+    <string name="sortDescending">Sort Descending</string>
+    <string name="totals">Totals</string>
+    <string name="textViewTotalsTitle">Array Opeations Totals</string>
+    <string name="buttonForReturnHome">Click To Return To Main Page</string>
+</resources>
